@@ -1,0 +1,13 @@
+{
+	"geode": "2.0.0-beta.22",
+	"gd": {
+        	"android": "2.205",
+        	"win": "2.204"
+    	},
+	"version": "v1.0.0",
+	"id": "nytelyte.unlockable_icons_first",
+	"name": "Unlockable Icons First",
+	"developer": "NyteLyte",
+	"description": "Sort icons in the icon kit so that 2.21-only icons are placed last.",
+	"repository": "https://github.com/nytelytee/geode-unlockable-icons-first.git"
+}
