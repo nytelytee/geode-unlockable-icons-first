@@ -4,7 +4,14 @@
         	"android": "2.205",
         	"win": "2.204"
     	},
-	"version": "v1.0.0",
+	"dependencies": [
+		{
+			"id": "geode.node-ids",
+			"version": "v1.2.0",
+			"importance": "required"
+		}
+	],
+	"version": "v1.0.1",
 	"id": "nytelyte.unlockable_icons_first",
 	"name": "Unlockable Icons First",
 	"developer": "NyteLyte",
